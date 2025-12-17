@@ -1,11 +1,8 @@
 # Scrimego
+
 An advanced Scribd.com, Mediafire.com, Gofile.io downloader with GUI
 
-*This downloader is put together from other projects and a gui has been added with ai.*
-
-SCRIBD DOWNLOAD FEATURE CURRENTLY NOT WORKING
-
-**Currently: Works (except scribd) - 2025 dec 17** 
+**Status: Scribd currently not working but other ones do - 2025 dec 17**
 
 [Download instructions](https://github.com/vccq/Scrimego?tab=readme-ov-file#download)
 
@@ -29,6 +26,8 @@ cd Scrimego
 pip install -r requirements.txt
 python3 scrimego.py
 ```
+
+#### Note: *This downloader is put together from other projects and a gui has been added with ai.*
 
 ###### tags
 scribd downloader, scribd file downloader free, mediafire folder downloader, multiple mediafire file downloader, gofile downloader, gofile.io downloader
