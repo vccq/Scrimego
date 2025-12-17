@@ -5,7 +5,7 @@ An advanced Scribd.com, Mediafire.com, Gofile.io downloader with GUI
 
 **Currently: Works (but it's in beta currently) - 2025 dec 17**
 
-[Download instructions]([(https://github.com/vccq/Scrimego?tab=readme-ov-file#download))
+[Download instructions](https://github.com/vccq/Scrimego?tab=readme-ov-file#download)
 
 
 ## Features
