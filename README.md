@@ -18,7 +18,8 @@ As i said its advanced, it has many features but the best ones are:
 
 ## Screenshot
 
-<img width="1002" height="832" alt="screenshot" src="https://github.com/user-attachments/assets/8fcb7010-bb01-4d8f-a28c-992e619713c5" />
+<img width="1002" height="832" alt="screenshot" src="https://github.com/user-attachments/assets/7e0b033e-2b41-4ad4-9b73-d3567c72812b" />
+
 
 ## Download
 
@@ -28,8 +29,6 @@ cd Scrimego
 pip install -r requirements.txt
 python3 scrimego.py
 ```
-
-
 
 ###### tags
 scribd downloader, scribd file downloader free, mediafire folder downloader, multiple mediafire file downloader, gofile downloader, gofile.io downloader
