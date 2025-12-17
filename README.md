@@ -22,7 +22,10 @@ As i said its advanced, it has many features but the best ones are:
 
 ## Download
 
-working on it...
+```bash
+pip install -r requirements.txt
+python3 scrimego.py
+```
 
 
 
