@@ -21,3 +21,14 @@ As i said its advanced, it has many features but the best ones are:
 ## Download
 
 working on it...
+
+
+
+###### tags
+scribd downloader, scribd file downloader free, mediafire folder downloader, multiple mediafire file downloader, gofile downloader, gofile.io downloader
+
+
+
+
+
+
