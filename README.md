@@ -23,6 +23,8 @@ As i said its advanced, it has many features but the best ones are:
 ## Download
 
 ```bash
+git clone https://github.com/vccq/Scrimego
+cd Scrimego
 pip install -r requirements.txt
 python3 scrimego.py
 ```
