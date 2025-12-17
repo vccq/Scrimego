@@ -3,7 +3,7 @@ An advanced Scribd.com, Mediafire.com, Gofile.io downloader with GUI
 
 *This downloader is put together from other projects and a gui has been added with ai.*
 
-_Currently: Works (but it's in beta currently) - 2025 dec 17_
+**Currently: Works (but it's in beta currently) - 2025 dec 17**
 
 [Download instructions](www.google.com)
 
